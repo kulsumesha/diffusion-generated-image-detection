@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Large model files
+*.pth
+*.pt
+*.onnx
+*.h5
+*.keras
+
+# Datasets and generated data
+dataset_final/
+tiny_genimage_data/
+results/
+artifacts/
+
+# Google Colab / Drive generated files
+/content/
